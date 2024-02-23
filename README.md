@@ -3,7 +3,7 @@
 *HTML
 ﻿﻿*CSS
 ﻿﻿*JavaScript
-3. Kotlin:
+4. Kotlin:
 fun main() {
     println("Hello, Kotlin!")
 }
