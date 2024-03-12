@@ -1,5 +1,5 @@
 # febnewrep
-## Front_End Developer stack:
+## Front-end Developer stack:
 *HTML
 ﻿﻿*CSS
 ﻿﻿*JavaScript
