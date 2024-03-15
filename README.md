@@ -4,6 +4,6 @@
 ﻿﻿*CSS
 ﻿﻿*JavaScript
 4. Kotlin:
-fun main(10) {
+fun main(11) {
     println("hello, kotlin!")
 }
