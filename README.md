@@ -2,7 +2,7 @@
 ## Front-end Developer stack:
 *HTML
 ﻿﻿*CSS
-﻿﻿*JavaScript
+﻿﻿*JavaScriptt
 4. Kotlin:
 fun main(11) {
     println("hello, kotlin!")
