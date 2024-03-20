@@ -5,5 +5,5 @@
 ﻿﻿*JavaScriptt
 4. Kotlin:
 fun main(02) {
-    println("hi, kotlin!")
+    println("hello, kotlin!")
 }
