@@ -4,7 +4,7 @@
 ﻿﻿*CSS
 ﻿﻿*JavaScriptt
 4. Kotlin:
-fun main(01) {24
+fun main(01) {08
     println("hi, kotlin!")
     static void main(12)
 }
