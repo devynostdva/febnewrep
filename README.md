@@ -6,5 +6,5 @@
 4. Kotlin:
 fun main(01) {08
     println("hi, kotlin!")
-    static void main(12)
+    static void main(112)
 }
